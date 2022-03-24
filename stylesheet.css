@@ -1,0 +1,40 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+}
+body {
+	width: 960px;
+	margin: 0 auto;
+	
+}
+h1 {
+	font-family: Times New Roman, Verdana, serif;
+}
+nav {
+	background-color: #bdcdef;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #bdcdef;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #bdcdef;
+	padding: 10px;
+	margin: 10px;
+}
